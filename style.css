@@ -66,7 +66,7 @@
 }
 
 .block_money-modal.active {
-    transform: translateY(-100px);
+    transform: translateY(-60px);
 }
 
 .money_text {
